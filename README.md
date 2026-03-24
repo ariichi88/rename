@@ -20,3 +20,4 @@ chmod +x rename.py
 
 ## 使い方
 rename.py 拡張子 新しい名前  
+拡張子は大文字小文字を区別します。
