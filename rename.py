@@ -28,7 +28,6 @@ def main(arg):
         rename(ext, new_name)
     else:
         usage()
-        sys.exit(1)
 
 
 if __name__ == '__main__':
